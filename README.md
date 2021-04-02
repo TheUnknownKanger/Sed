@@ -1,83 +1,47 @@
 
-<h1 align="center"><b>❤️ DaisyX 2.0  ❤️</b></h1>
+<h3>☣️ The Most Powerfull Group Management Bot ☣️</h3>
 
-<h4 align="center">A Powerful, Smart And Simple Group Manager <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
-<p align='center'>
-  <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square&logo=python&color=blue" /> </a>
-  <a href="https://github.com/TeamDaisyX/DaisyX-v2/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
-</p>
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/TEAMDAISYXDEVS/DaisyX?utm_source=github.com&utm_medium=referral&utm_content=TEAMDAISYXDEVS/DaisyX&utm_campaign=Badge_Grade_Settings)
+[![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
 
-<p align="center"><a href="https://t.me/DaisySupport_Official"><img src="https://telegra.ph/file/23448c98735bd81df47e7.jpg" width="400"></a></p>
-<p align="center">
-    <a href="https://app.codacy.com/manual/teamdaisyx/daisyx-v2.0/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
-    <a href="https://github.com/teamdaisyx/daisyx-v2.0"> <img src="https://img.shields.io/github/repo-size/teamdaisyx/daisyx-v2.0?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/teamdaisyx/daisyx-v2.0/commits/inukaasith"> <img src="https://img.shields.io/github/last-commit/teamdaisyx/daisyx-v2.0?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/teamdaisyx/daisyx-v2.0/issues"> <img src="https://img.shields.io/github/issues/teamdaisyx/daisyx-v2.0?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/teamdaisyx/daisyx-v2.0/network/members"> <img src="https://img.shields.io/github/forks/teamdaisyx/daisyx-v2.0?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
-    <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
-</p>
+![GitHub repo size](https://img.shields.io/github/repo-size/TEAMDAISYXDEVS/DaisyX)
+[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/lucifeermorningstar)
 
-> ⭐️ Thanks to everyone who starred Daisy, That is the greatest pleasure we have !
+<h1 align="center">⚡ †hê ∂αιѕу χ ⚡</h1>
 
-### The first AioGram based modified groupmanagement bot fully optimized for heroku deploys
-### https://daisyproject.studio
-## Avaiilable on Telegram as [@DaisyXBot](https://t.me/daisyxbot)
+<h4 align="center">Legendary AF Ꭰαιѕу χ</h4>
 
-# 🏃‍♂️ Easy Deploy 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamDaisyX/DaisyX-v2.0.git)
+<h5>This is a group management bot made for telegram. I made this userbot with help of all other bots available in telegram. All credits goes to its Respective Owners.</h5>
 
-[Generate String Session](https://replit.com/@SpEcHiDe/GenerateStringSession)  << Select telethon
+This is the one and only official DaisyXBot Group Management Bot made by #TeamDaisyXDevs.
 
-# ❤️ Support
-<a href="https://t.me/DaisySupport_Official"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/DaisyXupdates"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+Don't forget to star this repo if you liked it.
 
-# 😍 Credits
+Enjoy Your Bot!!💝
 
- - [Hitsuki](https://github.com/HitsukiNetwork/Hitsukix)
- - [SophieBot](https://gitlab.com/SophieBot/sophie)
- - [FridayUserbot](https://github.com/DevsExpo/FridayUserbot)
- - [MissJuliaRobot](https://github.com/MissJuliaRobot/MissJuliaRobot)
- - [DaisyX](https://github.com/teamdaisyx/daisy-x)
- - [Auto-Filter-Bot-V2](https://github.com/TroJanzHEX/Auto-Filter-Bot-V2/)
- - [Image-Editor](https://github.com/TroJanzHEX/Image-Editor/)
- - [Utah](https://github.com/minatouzuki/utah)
- - [LEGENDX](https://github.com/LEGENDXOP/LEGEND-X)
+[![DaisyBot logo](https://telegra.ph/file/1d5b67c7d155ddb587cde.jpg)](https://t.me/DaisyXNews)
 
-## Special Credits
-- [SophieBot Devs](https://gitlab.com/SophieBot)
-- [TroJanzHEX](https://github.com/TroJanzHEX)
-- [Amarnath c](https://github.com/Amarnathcdj)
-- [Thehamkercat](https://github.com/thehamkercat)
-- [StarkGang](https://github.com/StarkGang)
-- [chsaiujwal](https://github.com/chsaiujwal)
-- [LEGENDX](https://github.com/LEGENDXOP) 
-- [MissJuliaRobot](https://github.com/MissJuliaRobot) 
-- [HitsukiNetwork](https://github.com/HitsukiNetwork) 
-- [AnimeKaizoku](https://github.com/AnimeKaizoku) 
-- [Dan](https://github.com/delivrance) 
-- [Lonami](https://github.com/Lonami) 
-- [AioGram Project group](https://github.com/aiogram) 
-
-The bot is based on the original work done by [SophieBot](https://gitlab.com/SophieBot/sophie)
-This repo was just revamped to suit an Anime-centric & comedy loving community. All original credits go to SophieBot and their dedication, Without his efforts, this fork would not have been possible!
-
-All other credits mentioned on top of scripts
-
-Anything missing kindly let us know at [Daisy Support](https://t.me/DaisySupport_Official) or simply submit a pull request on the readme.
-
-# Daisy X the telegram Bot Project
-DaisyX-v2.0 (Base AioGram)
+## Deploy
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FTheUnknownKanger%2FSed&template=https%3A%2F%2Fgithub.com%2FTheUnknownKanger%2FSed)
 
 
-## Contributors
-- [Anjana_Ma](https://github.com/Anjana_Ma) 
-- [Dark Prince](https://github.com/Mr-Dark-Prince) 
-- [Official_Bawwa](https://github.com/OfficialBawwa) 
-- [Inuka Asith](https://github.com/inukaasith) 
-- [annihilatorrrr](https://github.com/annihilatorrrr) 
-- [sithum batrow](https://github.com/sbatrow) 
-- [LEGENDX](https://github.com/LEGENDXOP) 
+# Support
+<a href="https://t.me/DaisyXSupport"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/DaisyXNews"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
-> And credits goes to all who supported, all who helped and API & environmental equirement package devs and all projects helped in making this project.
-> Special thanks to you for using bot
+
+<details>
+<summary> special thanks </summary>
+<b>DEVIL (@lucifeermorningstar) Owner</b>
+<b>Inuka (@InukaASiTH) Developer</b>
+<b>SHUBHAM (@theshubhamgundu) Promoter</b>
+<b>ROHAN (@RoHaN_TeRa_BaAp) Supporter</b>
+<h1>#TEAMDAISYXDEVS</h1>
+</details>
+
+
+
+## Support
+   <a href="https://t.me/DaisyXNews"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
+   <a href="https://t.me/DaisyXSupport"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
+   
